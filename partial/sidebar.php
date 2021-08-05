@@ -20,7 +20,8 @@
                         <span>Tables</span>
                     </a>
                     <ul class="sub-menu" aria-expanded="false">
-                        <li><a href="datatable.php">Data Tables</a></li>
+                        <li><a href="datatable.php">Transit Slip</a></li>
+                        <li><a href="bagslip.php">Bag Slip</a></li>
                     </ul>
                 </li>
             </ul>
