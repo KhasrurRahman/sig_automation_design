@@ -22,6 +22,7 @@
                     <ul class="sub-menu" aria-expanded="false">
                         <li><a href="datatable.php">Transit Slip</a></li>
                         <li><a href="bagslip.php">Bag Slip</a></li>
+                        <li><a href="sdstransitslip.php">Signal Despatch Service Transit Slip</a></li>
                     </ul>
                 </li>
             </ul>

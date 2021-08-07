@@ -81,10 +81,10 @@
                                                         <input
                                                             type="checkbox"
                                                             class="custom-control-input"
-                                                            id="customCheck2">
+                                                            id="customCheck3">
                                                         <label
                                                             class="custom-control-label"
-                                                            for="customCheck2">&nbsp;</label>
+                                                            for="customCheck3">&nbsp;</label>
                                                     </div>
                                                 </td>
                                                
@@ -100,10 +100,10 @@
                                                         <input
                                                             type="checkbox"
                                                             class="custom-control-input"
-                                                            id="customCheck2">
+                                                            id="customCheck4">
                                                         <label
                                                             class="custom-control-label"
-                                                            for="customCheck2">&nbsp;</label>
+                                                            for="customCheck4">&nbsp;</label>
                                                     </div>
                                                 </td>
                                                
@@ -119,10 +119,10 @@
                                                         <input
                                                             type="checkbox"
                                                             class="custom-control-input"
-                                                            id="customCheck2">
+                                                            id="customCheck5">
                                                         <label
                                                             class="custom-control-label"
-                                                            for="customCheck2">&nbsp;</label>
+                                                            for="customCheck5">&nbsp;</label>
                                                     </div>
                                                 </td>
                                                
@@ -138,10 +138,10 @@
                                                         <input
                                                             type="checkbox"
                                                             class="custom-control-input"
-                                                            id="customCheck2">
+                                                            id="customCheck6">
                                                         <label
                                                             class="custom-control-label"
-                                                            for="customCheck2">&nbsp;</label>
+                                                            for="customCheck6">&nbsp;</label>
                                                     </div>
                                                 </td>
                                                
@@ -157,10 +157,10 @@
                                                         <input
                                                             type="checkbox"
                                                             class="custom-control-input"
-                                                            id="customCheck2">
+                                                            id="customCheck7">
                                                         <label
                                                             class="custom-control-label"
-                                                            for="customCheck2">&nbsp;</label>
+                                                            for="customCheck7">&nbsp;</label>
                                                     </div>
                                                 </td>
                                                
