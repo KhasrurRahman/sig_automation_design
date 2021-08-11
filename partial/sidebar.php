@@ -14,6 +14,13 @@
                     </ul>
                 </li>
                 <li class="menu-title">Pages</li>
+
+                <li>
+                    <a href="report.php" class="has-arrow ">
+                        <i class="bx bx-list-ul"></i>
+                        <span>Report</span>
+                    </a>
+                </li>
                 <li>
                     <a href="javascript: void(0);" class="has-arrow waves-effect">
                         <i class="bx bx-list-ul"></i>
@@ -23,6 +30,10 @@
                         <li><a href="datatable.php">Transit Slip</a></li>
                         <li><a href="bagslip.php">Bag Slip</a></li>
                         <li><a href="sdstransitslip.php">Signal Despatch Service Transit Slip</a></li>
+                        <li><a href="dispatchunit.php">DISPATCH DELIVERY TO UNIT</a></li>
+                        <li><a href="dispatchlist.php">DISPATCH DELIVERY LIST</a></li>
+                        <li><a href="disdetailsreport.php">DISPATCH  DETAILS REPORT</a></li>
+
                     </ul>
                 </li>
             </ul>

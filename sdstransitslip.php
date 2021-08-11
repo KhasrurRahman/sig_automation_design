@@ -73,23 +73,17 @@
                                         <thead style="background-color: #006500;
                                             color: white;">
                                             <tr>
-                                                <th>Serial No.</th>
+                                                <th>Ser.</th>
                                                 <th>Originator's No.</th>
                                                 <th>Precedence</th>
 
                                                 <th>From</th>
                                                 <th>TO</th>
-                                                 <th >Signal
-                                                    Despatch Service
-                                                    Transit Slip
-                                                    <!-- <tr>
-                                                        <td colspan="2"></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>Time</td>
-                                                        <td>Signature</td>
-                                                    </tr>  -->
-                                                </th>
+                                                <th >Receipt for Local
+                                                    Despatch(Time) </th>
+                                                    <th>Signature</th>
+                                               
+                                                 
                                             </tr>
                                         </thead>
 
@@ -102,6 +96,8 @@
                                                 <td></td>
                                                 <td></td>
                                                 <td></td>
+                                                <td></td>
+
 
                                             </tr>
                                             <tr>
@@ -111,6 +107,8 @@
                                                 <td></td>
                                                 <td></td>
                                                 <td></td>
+                                                <td></td>
+
 
                                             </tr>
                                             <tr>
@@ -120,6 +118,8 @@
                                                 <td></td>
                                                 <td></td>
                                                 <td></td>
+                                                <td></td>
+
 
                                             </tr>
                                             <tr>
@@ -129,6 +129,8 @@
                                                 <td></td>
                                                 <td></td>
                                                 <td></td>
+                                                <td></td>
+
 
                                             </tr>
                                             <tr>
@@ -138,6 +140,8 @@
                                                 <td></td>
                                                 <td></td>
                                                 <td></td>
+                                                <td></td>
+
 
                                             </tr>
                                             <tr>
@@ -147,6 +151,8 @@
                                                 <td></td>
                                                 <td></td>
                                                 <td></td>
+                                                <td></td>
+
 
                                             </tr>
 

@@ -13,24 +13,25 @@
                                     <div class="row">
                                         <div class="col-md-4">
                                             <div class="form-group">
-                                                <label for="validationCustom01">DESTINATION</label>
-                                                <input type="text"
-                                                    class="form-control"
-                                                    id="validationCustom01"
-                                                    placeholder="" value=""
-                                                    required>
+                                                <select class="form-select" aria-label="Default select example"   style =" width: 325px; height: 40PX;">
+                                                    <option selected>DESTINATION</option>
+                                                    <option value="1">One</option>
+                                                    <option value="2">Two</option>
+                                                    <option value="3">Three</option>
+                                                  </select>
+
 
                                             </div>
                                         </div>
                                         <div class="col-md-4">
                                             <div class="form-group">
-                                                <label for="validationCustom02">ROUTE
-                                                </label>
-                                                <input type="text"
-                                                    class="form-control"
-                                                    id="validationCustom02"
-                                                    placeholder=""value=""
-                                                    required>
+                                                <select class="form-select" aria-label="Default select example"   style =" width: 325px; height: 40PX;">
+                                                    <option selected>ROUTE</option>
+                                                    <option value="1">One</option>
+                                                    <option value="2">Two</option>
+                                                    <option value="3">Three</option>
+                                                  </select>
+
 
                                             </div>
                                         </div>
@@ -38,24 +39,23 @@
                                     <div class="row">
                                         <div class="col-md-4">
                                             <div class="form-group">
-                                                <label for="validationCustom01">UNIT</label>
-                                                <input type="text"
-                                                    class="form-control"
-                                                    id="validationCustom01"
-                                                    placeholder=""value=""
-                                                    required>
+                                                <select class="form-select" aria-label="Default select example"   style =" width: 325px; height: 40PX;">
+                                                    <option selected>UNIT</option>
+                                                    <option value="1">One</option>
+                                                    <option value="2">Two</option>
+                                                    <option value="3">Three</option>
+                                                  </select>
+
 
                                             </div>
                                         </div>
                                         <div class="col-md-4">
                                             <div class="form-group">
-                                                <label for="validationCustom02">DR
-                                                    NAME </label>
-                                                <input type="text"
-                                                    class="form-control"
-                                                    id="validationCustom02"
-                                                    placeholder=""value=""
-                                                    required>
+                                                <select class="form-select" aria-label="Default select example"   style =" width: 325px; height: 40PX;">
+                                                    <option selected>DR Unit</option>
+                                                    
+                                                  </select>
+
 
                                             </div>
                                         </div>
@@ -233,14 +233,11 @@
                     </div>
                     <div class="form-group mb-0">
                         <div>
-                            <button type="submit" class="btn btn-primary
-                                waves-effect waves-light mr-1" style="margin-left: 20px; background-color:#006500 ">
-                                Back
-                            </button>
-                            <button type="reset" class="btn btn-secondary
-                                waves-effect" style="margin-left: 900px; background-color:#006500  ">
-                                Submit
-                            </button>
+                            <button class="btn btn-primary" style=" background-color:#006500 ;width: 200px;
+                            type="submit">Submit </button>
+
+                            <button class="btn btn-primary" style="margin-left: 0px; background-color:#006500 ;width: 200px; margin-left: 591px ;
+                            type="submit">Back</button>
                         </div>
                     </div>
 

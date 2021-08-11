@@ -9,41 +9,38 @@
                         <div class="col-12">
                             <div class="card">
                                 <div class="card-body">
-                                    <h4 class="card-title" style="font-size: 18px; color:#006500">Bag Slip Generate</h4>
+                                   
                                     <div class="row">
-                                        <div class="col-md-6">
+                                        
+                                        <div class="col-md-4">
+                                            <h4 class="card-title" style="font-size: 18px; color:#006500">DISPATCH DELIVERY TO UNIT</h4>
                                             <div class="form-group">
-                                                <select class="form-select" aria-label="Default select example"   style =" width: 325px; height: 40PX;">
-                                                    <option selected>CANTONMENT</option>
-                                                    <option value="1">One</option>
-                                                    <option value="2">Two</option>
-                                                    <option value="3">Three</option>
-                                                  </select>
-
+                                              
+                                                    <select class="form-select" aria-label="Default select example"   style =" width: 325px; height: 40PX;">
+                                                        <option selected>Select Unit</option>
+                                                        <option value="1">One</option>
+                                                        <option value="2">Two</option>
+                                                        <option value="3">Three</option>
+                                                      </select>
 
                                             </div>
                                         </div>
-                                        <div class="col-md-6">
-                                            <div class="form-group">
-                                                <select class="form-select" aria-label="Default select example"   style =" width: 325px; height: 40PX;">
-                                                    <option selected>SIGNAL CENTER</option>
-                                                    <option value="1">One</option>
-                                                    <option value="2">Two</option>
-                                                    <option value="3">Three</option>
-                                                  </select>
-
-                                            </div>
+                                        <div class="col-md-4" style="margin-left: 344px; margin-bottom: 20px;">
+                                            <h4 style="color: #006500;">DR PHOTO</h4>
+                                            <img src="assets/images/brands/github.png" alt="Flowers in Chania" width="100" height="113">
                                         </div>
+                                       
                                     </div>
+                                  
                                     
 
-                                    <table id="datatable" class="table table-striped"
+                                    <table id="datatable" class="table  table-striped"
                                         style="border-collapse: collapse;
                                         border-spacing: 0; width: 100%;">
                                         <thead style="background-color: #006500; color: white;">
                                             <tr>
                                                 <th>Ser</th>
-                                                <th>Signal Center Name</th>
+                                                <th>Letter Number </th>
                                                 <th>Check</th>
                                                 
                                             </tr>
@@ -53,7 +50,7 @@
                                         <tbody>
                                             <tr>
                                                 <td>01</td>
-                                                <td>22fvf</td>
+                                                <td>86 Signal</td>
                                                
                                                     <td>
                                                         <div
@@ -71,8 +68,8 @@
                                                
                                             </tr>
                                             <tr>
-                                                <td>01</td>
-                                                <td>22fvf</td>
+                                                <td>02</td>
+                                                <td>11 Signal</td>
                                                
                                                     <td>
                                                         <div
@@ -90,8 +87,8 @@
                                                
                                             </tr>
                                             <tr>
-                                                <td>01</td>
-                                                <td>22fvf</td>
+                                                <td>03</td>
+                                                <td>10 Signal</td>
                                                
                                                     <td>
                                                         <div
@@ -109,8 +106,8 @@
                                                
                                             </tr>
                                             <tr>
-                                                <td>01</td>
-                                                <td>22fvf</td>
+                                                <td>04</td>
+                                                <td>ATSO</td>
                                                
                                                     <td>
                                                         <div
@@ -128,8 +125,8 @@
                                                
                                             </tr>
                                             <tr>
-                                                <td>01</td>
-                                                <td>22fvf</td>
+                                                <td>05</td>
+                                                <td>CMH</td>
                                                
                                                     <td>
                                                         <div
@@ -147,8 +144,8 @@
                                                
                                             </tr>
                                             <tr>
-                                                <td>01</td>
-                                                <td>22fvf</td>
+                                                <td>06</td>
+                                                <td>4 Signal</td>
                                                
                                                     <td>
                                                         <div
@@ -170,22 +167,20 @@
                                         </tbody>
                                     </table>
 
-                                    <button class="btn btn-primary" style="margin-left: 750px; background-color:#006500 ;
+                                    <button class="btn btn-primary" style=" background-color:#006500 ;width: 200px;
+                                    type="submit">Scan DR ID </button>
+
+                                    <button class="btn btn-primary" style="margin-left: 0px; background-color:#006500 ;width: 200px; margin-left: 100px ;
+                                    type="submit">Print</button>
+
+                                    <button class="btn btn-primary" style="margin-left: 0px; background-color:#006500;width: 200px;margin-left: 200px ;
                                         type="submit">Check All</button>
 
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="form-group mb-0">
-                        <div>
-                            <button class="btn btn-primary" style=" background-color:#006500 ;width: 200px;
-                            type="submit">Back </button>
-
-                            <button class="btn btn-primary" style="margin-left: 0px; background-color:#006500 ;width: 200px; margin-left: 591px ;
-                            type="submit">Submit</button>
-                        </div>
-                    </div>
+                    
 
                 </div>
             </div>
