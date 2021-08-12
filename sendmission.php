@@ -70,23 +70,7 @@
                                                 
                                 </div>    
                                         
-                                                
-                                               
-                                                
-                                       
-
-                                              
-
-                                           
-
-                                   
-                                   
-                                      
-                                     
-                                  
-                                    
-
-                                    <table id="datatable" class="table  table-striped"
+                                <table id="datatable" class="table  table-striped"
                                         style="border-collapse: collapse;
                                         border-spacing: 0; width: 100%;">
                                         <thead style="background-color: #006500; color: white;">
@@ -131,10 +115,10 @@
                                                         <input
                                                             type="checkbox"
                                                             class="custom-control-input"
-                                                            id="customCheck2">
+                                                            id="customCheck3">
                                                         <label
                                                             class="custom-control-label"
-                                                            for="customCheck2">&nbsp;</label>
+                                                            for="customCheck3">&nbsp;</label>
                                                     </div>
                                                 </td>
                                                 
@@ -150,10 +134,10 @@
                                                         <input
                                                             type="checkbox"
                                                             class="custom-control-input"
-                                                            id="customCheck2">
+                                                            id="customCheck4">
                                                         <label
                                                             class="custom-control-label"
-                                                            for="customCheck2">&nbsp;</label>
+                                                            for="customCheck4">&nbsp;</label>
                                                     </div>
                                                 </td>
                                                 
@@ -169,10 +153,10 @@
                                                         <input
                                                             type="checkbox"
                                                             class="custom-control-input"
-                                                            id="customCheck2">
+                                                            id="customCheck5">
                                                         <label
                                                             class="custom-control-label"
-                                                            for="customCheck2">&nbsp;</label>
+                                                            for="customCheck5">&nbsp;</label>
                                                     </div>
                                                 </td>
                                                 
@@ -188,33 +172,15 @@
                                                         <input
                                                             type="checkbox"
                                                             class="custom-control-input"
-                                                            id="customCheck2">
+                                                            id="customCheck6">
                                                         <label
                                                             class="custom-control-label"
-                                                            for="customCheck2">&nbsp;</label>
+                                                            for="customCheck6">&nbsp;</label>
                                                     </div>
                                                 </td>
                                                
                                             </tr>
-                                            <tr>
-                                                <td></td>
-                                                <td></td>
-                                                <td></td>
-                                                    <td>
-                                                        <div
-                                                        class="custom-control
-                                                        custom-checkbox">
-                                                        <input
-                                                            type="checkbox"
-                                                            class="custom-control-input"
-                                                            id="customCheck2">
-                                                        <label
-                                                            class="custom-control-label"
-                                                            for="customCheck2">&nbsp;</label>
-                                                    </div>
-                                                </td>
-                                                
-                                            </tr>
+                                            
 
 
                                         </tbody>
@@ -235,4 +201,20 @@
             </div>
         </div>
 
-        <?php include 'partial/footer.php'; ?>
+        <?php include 'partial/footer.php'; ?>                
+                                               
+                                                
+                                       
+
+                                              
+
+                                           
+
+                                   
+                                   
+                                      
+                                     
+                                  
+                                    
+
+                                    
