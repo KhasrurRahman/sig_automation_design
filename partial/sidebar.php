@@ -16,9 +16,21 @@
                 <li class="menu-title">Pages</li>
 
                 <li>
-                    <a href="report.php" class="has-arrow ">
+                    <a href="report.php" class="waves-effect">
                         <i class="bx bx-list-ul"></i>
-                        <span>Report</span>
+                        <span>Report </span>
+                    </a>
+                </li>
+                <li>
+                    <a href=" management.php" class="waves-effect">
+                        <i class="bx bx-list-ul"></i>
+                        <span>Fax Management</span>
+                    </a>
+                </li>
+                <li>
+                    <a href=" sendmission.php" class="waves-effect">
+                        <i class="bx bx-list-ul"></i>
+                        <span>Send Mission</span>
                     </a>
                 </li>
                 <li>
@@ -32,7 +44,9 @@
                         <li><a href="sdstransitslip.php">Signal Despatch Service Transit Slip</a></li>
                         <li><a href="dispatchunit.php">DISPATCH DELIVERY TO UNIT</a></li>
                         <li><a href="dispatchlist.php">DISPATCH DELIVERY LIST</a></li>
+                       
                         <li><a href="disdetailsreport.php">DISPATCH  DETAILS REPORT</a></li>
+                        <li><a href="drinformation.php">DR  INFORMATION REPORT</a></li>
 
                     </ul>
                 </li>

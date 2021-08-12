@@ -11,9 +11,9 @@
                                 <div class="card-body">
                                     <h4 class="card-title" style="font-size: 18px; color:#006500">Create Transit Slip</h4>
                                     <div class="row">
-                                        <div class="col-md-4">
+                                        <div class="col-md-6">
                                             <div class="form-group">
-                                                <select class="form-select" aria-label="Default select example"   style =" width: 325px; height: 40PX;">
+                                                <select class="form-select" aria-label="Default select example"   style =" width: 488px; height: 40PX;">
                                                     <option selected>DESTINATION</option>
                                                     <option value="1">One</option>
                                                     <option value="2">Two</option>
@@ -23,9 +23,9 @@
 
                                             </div>
                                         </div>
-                                        <div class="col-md-4">
+                                        <div class="col-md-6">
                                             <div class="form-group">
-                                                <select class="form-select" aria-label="Default select example"   style =" width: 325px; height: 40PX;">
+                                                <select class="form-select" aria-label="Default select example"   style =" width:488px; height: 40PX;">
                                                     <option selected>ROUTE</option>
                                                     <option value="1">One</option>
                                                     <option value="2">Two</option>
@@ -37,9 +37,9 @@
                                         </div>
                                     </div>
                                     <div class="row">
-                                        <div class="col-md-4">
+                                        <div class="col-md-6">
                                             <div class="form-group">
-                                                <select class="form-select" aria-label="Default select example"   style =" width: 325px; height: 40PX;">
+                                                <select class="form-select" aria-label="Default select example"   style =" width:488px; height: 40PX;">
                                                     <option selected>UNIT</option>
                                                     <option value="1">One</option>
                                                     <option value="2">Two</option>
@@ -49,9 +49,9 @@
 
                                             </div>
                                         </div>
-                                        <div class="col-md-4">
+                                        <div class="col-md-6">
                                             <div class="form-group">
-                                                <select class="form-select" aria-label="Default select example"   style =" width: 325px; height: 40PX;">
+                                                <select class="form-select" aria-label="Default select example"   style =" width: 488px; height: 40PX;">
                                                     <option selected>DR Unit</option>
                                                     
                                                   </select>

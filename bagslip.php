@@ -13,7 +13,7 @@
                                     <div class="row">
                                         <div class="col-md-6">
                                             <div class="form-group">
-                                                <select class="form-select" aria-label="Default select example"   style =" width: 325px; height: 40PX;">
+                                                <select class="form-select" aria-label="Default select example"   style =" width: 488px; height: 40PX;">
                                                     <option selected>CANTONMENT</option>
                                                     <option value="1">One</option>
                                                     <option value="2">Two</option>
@@ -25,7 +25,7 @@
                                         </div>
                                         <div class="col-md-6">
                                             <div class="form-group">
-                                                <select class="form-select" aria-label="Default select example"   style =" width: 325px; height: 40PX;">
+                                                <select class="form-select" aria-label="Default select example"   style =" width: 488px; height: 40PX;">
                                                     <option selected>SIGNAL CENTER</option>
                                                     <option value="1">One</option>
                                                     <option value="2">Two</option>

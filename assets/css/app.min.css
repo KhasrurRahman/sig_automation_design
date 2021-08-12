@@ -567,7 +567,7 @@ body[data-sidebar="dark"] .vertical-menu {
   background: #006500;
 }
 body[data-sidebar="dark"] #sidebar-menu ul li a {
-  color: #a6b0cf;
+  color: #f3f5f9;
 }
 body[data-sidebar="dark"] #sidebar-menu ul li a i {
   color: #6a7187;
@@ -579,7 +579,7 @@ body[data-sidebar="dark"] #sidebar-menu ul li a:hover i {
   color: #fff;
 }
 body[data-sidebar="dark"] #sidebar-menu ul li ul.sub-menu li a {
-  color: #79829c;
+  color: #bfc8dceb;
 }
 body[data-sidebar="dark"] #sidebar-menu ul li ul.sub-menu li a:hover {
   color: #fff;
