@@ -13,24 +13,27 @@
                                     <div class="row">
                                         <div class="col-md-6">
                                             <div class="form-group">
-                                                <select class="form-select" aria-label="Default select example"   style =" width: 488px; height: 40PX;">
-                                                    <option selected>CANTONMENT</option>
-                                                    <option value="1">One</option>
-                                                    <option value="2">Two</option>
-                                                    <option value="3">Three</option>
-                                                  </select>
-
+                                                <select class="form-control select2">
+                                                    <option>CANTONMENT</option>
+                                                    <optgroup label="Alaskan/Hawaiian Time Zone">
+                                                        <option value="AK">Alaska</option>
+                                                        <option value="HI">Hawaii</option>
+                                                    </optgroup>
+                                                   
+                                                </select>
 
                                             </div>
                                         </div>
                                         <div class="col-md-6">
                                             <div class="form-group">
-                                                <select class="form-select" aria-label="Default select example"   style =" width: 488px; height: 40PX;">
-                                                    <option selected>SIGNAL CENTER</option>
-                                                    <option value="1">One</option>
-                                                    <option value="2">Two</option>
-                                                    <option value="3">Three</option>
-                                                  </select>
+                                                <select class="form-control select2">
+                                                    <option>SIGNAL CENTER</option>
+                                                    <optgroup label="Alaskan/Hawaiian Time Zone">
+                                                        <option value="AK">Alaska</option>
+                                                        <option value="HI">Hawaii</option>
+                                                    </optgroup>
+                                                   
+                                                </select>
 
                                             </div>
                                         </div>

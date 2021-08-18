@@ -13,25 +13,28 @@
                                     <div class="row">
                                         <div class="col-md-6">
                                             <div class="form-group">
-                                                <select class="form-select" aria-label="Default select example"   style =" width: 488px; height: 40PX;">
-                                                    <option selected>DESTINATION</option>
-                                                    <option value="1">One</option>
-                                                    <option value="2">Two</option>
-                                                    <option value="3">Three</option>
-                                                  </select>
+                                                <select class="form-control select2">
+                                                    <option>DESTINATION</option>
+                                                    <optgroup label="Alaskan/Hawaiian Time Zone">
+                                                        <option value="AK">Alaska</option>
+                                                        <option value="HI">Hawaii</option>
+                                                    </optgroup>
+                                                   
+                                                </select>
 
 
                                             </div>
                                         </div>
                                         <div class="col-md-6">
                                             <div class="form-group">
-                                                <select class="form-select" aria-label="Default select example"   style =" width:488px; height: 40PX;">
-                                                    <option selected>ROUTE</option>
-                                                    <option value="1">One</option>
-                                                    <option value="2">Two</option>
-                                                    <option value="3">Three</option>
-                                                  </select>
-
+                                                <select class="form-control select2">
+                                                    <option>ROUTE</option>
+                                                    <optgroup label="Alaskan/Hawaiian Time Zone">
+                                                        <option value="AK">Alaska</option>
+                                                        <option value="HI">Hawaii</option>
+                                                    </optgroup>
+                                                   
+                                                </select>
 
                                             </div>
                                         </div>
@@ -39,22 +42,27 @@
                                     <div class="row">
                                         <div class="col-md-6">
                                             <div class="form-group">
-                                                <select class="form-select" aria-label="Default select example"   style =" width:488px; height: 40PX;">
-                                                    <option selected>UNIT</option>
-                                                    <option value="1">One</option>
-                                                    <option value="2">Two</option>
-                                                    <option value="3">Three</option>
-                                                  </select>
+                                                <select class="form-control select2">
+                                                    <option>UNIT</option>
+                                                    <optgroup label="Alaskan/Hawaiian Time Zone">
+                                                        <option value="AK">Alaska</option>
+                                                        <option value="HI">Hawaii</option>
+                                                    </optgroup>
+                                                   
+                                                </select>
 
 
                                             </div>
                                         </div>
                                         <div class="col-md-6">
-                                            <div class="form-group">
-                                                <select class="form-select" aria-label="Default select example"   style =" width: 488px; height: 40PX;">
-                                                    <option selected>DR Unit</option>
-                                                    
-                                                  </select>
+                                            <div class="form-group" style="margin-top: -16px;">
+                                                <label for="validationCustom01"></label>
+                                                <input type="text"
+                                                    class="form-control"
+                                                    id="validationCustom01"
+                                                    placeholder="DR UNIT"value=""
+                                                    required>
+
 
 
                                             </div>

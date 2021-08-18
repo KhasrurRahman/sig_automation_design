@@ -34,6 +34,18 @@
                     </a>
                 </li>
                 <li>
+                    <a href=" urgentdelivery.php" class="waves-effect">
+                        <i class="bx bx-list-ul"></i>
+                        <span>Urgent Delivery </span>
+                    </a>
+                </li>
+                <li>
+                    <a href=" return.php" class="waves-effect">
+                        <i class="bx bx-list-ul"></i>
+                        <span>RETURN </span>
+                    </a>
+                </li>
+                <li>
                     <a href="javascript: void(0);" class="has-arrow waves-effect">
                         <i class="bx bx-list-ul"></i>
                         <span>Tables</span>

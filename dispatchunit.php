@@ -13,15 +13,17 @@
                                     <div class="row">
                                         
                                         <div class="col-md-4">
-                                            <h4 class="card-title" style="font-size: 18px; color:#006500">DISPATCH DELIVERY TO UNIT</h4>
+                                            <h4 class="card-title" style="font-size: 18px; color:#006500">DISPATCH DELIVERY TO UNIT</h4 >
                                             <div class="form-group">
                                               
-                                                    <select class="form-select" aria-label="Default select example"   style =" width: 488px; height: 40PX;">
-                                                        <option selected>Select Unit</option>
-                                                        <option value="1">One</option>
-                                                        <option value="2">Two</option>
-                                                        <option value="3">Three</option>
-                                                      </select>
+                                                <select class="form-control select2" style =" width: 488px; height: 40PX;">
+                                                    <option>SELECT UNIT</option>
+                                                    <optgroup label="Alaskan/Hawaiian Time Zone">
+                                                        <option value="AK">Alaska</option>
+                                                        <option value="HI">Hawaii</option>
+                                                    </optgroup>
+                                                   
+                                                </select>
 
                                             </div>
                                         </div>
