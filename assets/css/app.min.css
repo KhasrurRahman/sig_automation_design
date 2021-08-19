@@ -177,7 +177,7 @@ body[data-topbar="dark"] .app-search span {
   color: rgba(255, 255, 255, 0.5);
 }
 body[data-sidebar="dark"] .navbar-brand-box {
-  background: #2a3042;
+  background: #F9A944;
 }
 body[data-sidebar="dark"] .logo-dark {
   display: none;
@@ -564,13 +564,13 @@ body[data-layout="horizontal"] .footer {
   color: #f8f9fa;
 }
 body[data-sidebar="dark"] .vertical-menu {
-  background: #006500;
+  background: #015A22;
 }
 body[data-sidebar="dark"] #sidebar-menu ul li a {
   color: #f3f5f9;
 }
 body[data-sidebar="dark"] #sidebar-menu ul li a i {
-  color: #6a7187;
+  color: #F9A944;
 }
 body[data-sidebar="dark"] #sidebar-menu ul li a:hover {
   color: #fff;
@@ -660,7 +660,8 @@ body[data-sidebar="dark"] .mm-active .active i {
   color: #fff !important;
 }
 body[data-sidebar="dark"] .menu-title {
-  color: #6a7187;
+  color: #F9A944;
+  font-weight: bold;
 }
 body[data-layout="horizontal"] .main-content {
   margin-left: 0 !important;

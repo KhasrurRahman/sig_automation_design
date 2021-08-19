@@ -95,7 +95,7 @@
                                         </div> 
                                         
                                            <div class="col-md-4">
-                                            <img src="assets/images/crypto/blog/img-2.jpg" alt="..." class="img-thumbnail" style="width: 250PX; height: 180PX;">
+                                            <img src="assets/images/crypto/blog/pngfind.com-user-icon-png-2924858.png" alt="..." style="width: 250PX; height: 180PX;">
                                            </div>
 
                                                 
