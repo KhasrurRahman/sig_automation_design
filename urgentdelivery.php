@@ -13,8 +13,7 @@
                                         <div class="col-md-12">
                                             
                                           <h4 style="color: #006500;">URGENT DELIVERY </h4>
-                                                
-                                            
+                                 
                                         </div>
                                        
                                     </div>

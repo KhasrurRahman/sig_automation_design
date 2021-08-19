@@ -14,6 +14,12 @@
                     </ul>
                 </li>
                 <li class="menu-title">Pages</li>
+                <li>
+                    <a href="dispatchreceive.php" class="waves-effect">
+                        <i class="bx bx-list-ul"></i>
+                        <span>Despatch Receive At Signal Center </span>
+                    </a>
+                </li>
 
                 <li>
                     <a href="report.php" class="waves-effect">
