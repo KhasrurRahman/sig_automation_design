@@ -567,22 +567,22 @@ body[data-sidebar="dark"] .vertical-menu {
   background: #015A22;
 }
 body[data-sidebar="dark"] #sidebar-menu ul li a {
-  color: #f3f5f9;
+  color: #fff;
 }
 body[data-sidebar="dark"] #sidebar-menu ul li a i {
   color: #F9A944;
 }
 body[data-sidebar="dark"] #sidebar-menu ul li a:hover {
-  color: #fff;
+  color: #F9A944;
 }
 body[data-sidebar="dark"] #sidebar-menu ul li a:hover i {
   color: #fff;
 }
 body[data-sidebar="dark"] #sidebar-menu ul li ul.sub-menu li a {
-  color: #bfc8dceb;
+  color: #fff;
 }
 body[data-sidebar="dark"] #sidebar-menu ul li ul.sub-menu li a:hover {
-  color: #fff;
+  color: #F9A944;
 }
 body[data-sidebar="dark"].vertical-collpsed {
   min-height: 1300px;
