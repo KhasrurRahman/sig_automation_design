@@ -15,6 +15,16 @@
                 </li>
                 <li class="menu-title">Pages</li>
                 <li>
+                    <a href="javascript: void(0);" class="has-arrow waves-effect">
+                        <i class="bx bx-list-ul"></i>
+                        <span>User Login</span>
+                    </a>
+                    <ul class="sub-menu" aria-expanded="false">
+                        <li><a href="user_login.php">Log in</a></li>
+                        <li><a href="create_user.php">Create New User</a></li>
+                    </ul>
+                </li>
+                <li>
                     <a href="dispatchreceive.php" class="waves-effect">
                         <i class="bx bx-list-ul"></i>
                         <span>Despatch Receive At Signal Center </span>
